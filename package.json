@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-party",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/thecoin.js",
+  "scripts": {
+    "coin": "node src/thecoin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielRiloFerrero/blockchain-party.git"
+  },
+  "keywords": [],
+  "author": "Dani RF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielRiloFerrero/blockchain-party/issues"
+  },
+  "homepage": "https://github.com/DanielRiloFerrero/blockchain-party#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "date-fns": "^2.22.1",
+    "randomstring": "^1.2.1"
+  }
+}
